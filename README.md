@@ -12,7 +12,7 @@
 - 🧠 **TRA 301 Final**: This was a final project for the course **TRA 301/COS 401: Introduction to Machine Translation**, in which my group applied Natural Language Processing techniques to create a script-based movie recommendation system.
 - 🕹️ **christopherspeed.github.io**: This repository was for a final project for the course **COS 426: Computer Graphics**. Our group created a web-based first-person 3D driving simulator using the JavaScript libraries *three.js* and *cannon-es.js* as a basis for world rendering and player physics, and extending the techniques we learned in class to complete the game.
 #### Read More
-- 💬 <a href="10-5 Resume RG.pdf" download>Resume</a>
+- 💬 <a href="1-7 Resume RG.pdf" download>Resume</a>
 - 🤝 <a href="https://www.linkedin.com/in/ryanjamesgibbons/"> LinkedIn </a>
 
 
